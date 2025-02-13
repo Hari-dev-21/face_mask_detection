@@ -1,0 +1,11 @@
+Epoch 1/10, Loss: 0.2148
+Epoch 2/10, Loss: 0.0865
+Epoch 3/10, Loss: 0.0487
+Epoch 4/10, Loss: 0.0373
+Epoch 5/10, Loss: 0.0299
+Epoch 6/10, Loss: 0.0225
+Epoch 7/10, Loss: 0.0219
+Epoch 8/10, Loss: 0.0155
+Epoch 9/10, Loss: 0.0157
+Epoch 10/10, Loss: 0.0129
+Validation Accuracy: 99.35%
